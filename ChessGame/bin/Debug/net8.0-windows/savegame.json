@@ -1,0 +1,35 @@
+{
+  "Pieces": [
+    {
+      "Row": 0,
+      "Col": 4,
+      "Type": "King",
+      "Color": 0,
+      "HasMoved": false
+    },
+    {
+      "Row": 1,
+      "Col": 2,
+      "Type": "Pawn",
+      "Color": 0,
+      "HasMoved": false
+    },
+    {
+      "Row": 6,
+      "Col": 1,
+      "Type": "Pawn",
+      "Color": 1,
+      "HasMoved": false
+    },
+    {
+      "Row": 7,
+      "Col": 3,
+      "Type": "King",
+      "Color": 1,
+      "HasMoved": true
+    }
+  ],
+  "CurrentTurn": 0,
+  "EnPassantRow": null,
+  "EnPassantCol": null
+}
